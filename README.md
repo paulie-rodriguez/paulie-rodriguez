@@ -1,4 +1,16 @@
-### Hi there 👋
+ ![image](gif.gif)    
+# Yo! 👋🏽    
+## I'm Paulie Rodriguez, I do UX design and code.   
+## I'm currently wrapping up my scholarship program for UX design through Treehouse Talentpath.   
+### My current tech stack is:   
+- React.js, Gatsby, Next 💻
+- TailwindCSS, Chakra-UI, Styled-components 🎨
+- Netlify CMS, Contentful CMS 📩
+- Markdown and MDX.js 😈
+- Figma and Sketch 📐
+
+### Checkout my ![Portfolio](http://paulierodriguez.dev/) for my work!
+
 
 <!--
 **paulie-rodriguez/paulie-rodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
