@@ -1,4 +1,4 @@
- ![image](gif.gif)    
+<img src="https://raw.githubusercontent.com/paulie-rodriguez/paulie-rodriguez/master/gif.gif" alt="gif of skeleton playing trumpet">  
 # Yo! 👋🏽    
 ## I'm Paulie Rodriguez, I do UX design and code.   
 ## I'm currently wrapping up my scholarship program for UX design through Treehouse Talentpath.   
@@ -9,7 +9,7 @@
 - Markdown and MDX.js 😈
 - Figma and Sketch 📐
 
-### Checkout my ![Portfolio](http://paulierodriguez.dev/) for my work!
+### Checkout my [Portfolio](http://paulierodriguez.dev/) for my work!
 
 
 <!--
