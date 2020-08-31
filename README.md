@@ -3,7 +3,7 @@
 
 # Yo! 👋🏽    
 ## I'm Paulie Rodriguez, I do UX design and code.   
-## I'm currently wrapping up my scholarship program for UX design through Treehouse Talentpath.   
+## I'm currently not job hunting, hit me up if you wanna play halo though!   
 ### My current tech stack is:   
 - React.js, Gatsby, Next 💻
 - TailwindCSS, Chakra-UI, Styled-components 🎨
