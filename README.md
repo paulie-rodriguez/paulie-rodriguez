@@ -3,16 +3,13 @@
 
 # Yo! 👋🏽    
 ## I'm Paulie Rodriguez, I do UX design and code.   
-## I'm currently not job hunting, hit me up if you wanna play halo though!   
-### My current tech stack is:   
+## I've quit coding to live on a farm, hit me up if you wanna play halo though!   
+### My tech stack is:   
 - React.js, Gatsby, Next 💻
 - TailwindCSS, Chakra-UI, Styled-components 🎨
-- Netlify CMS, Contentful CMS 📩
+- Contentful CMS 📩
 - Markdown and MDX.js 😈
 - Figma and Sketch 📐
-
-### Checkout my [Portfolio](http://paulierodriguez.dev/) for my work!
-
 
 <!--
 **paulie-rodriguez/paulie-rodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
